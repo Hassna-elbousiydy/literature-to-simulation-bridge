@@ -1,0 +1,15 @@
+{
+  "parameter_set_name": "Chen2020",
+  "pybamm_version": "26.8.0.0",
+  "candidate_source_doi": "10.1149/1945-7111/ab9050",
+  "total_parameters": 93,
+  "value_type_counts": {
+    "scalar": 86,
+    "function": 6,
+    "structured": 1
+  },
+  "paper_verified_parameters": 0,
+  "paper_verification_status": "not_started",
+  "important_notice": "The registry describes the PyBaMM implementation. Each value must still be verified against the scientific paper.",
+  "parameter_set_description": "\nParameters for an LG M50 cell, from the paper :footcite:t:`Chen2020` and references\ntherein.\n\nSEI parameters are example parameters for SEI growth from the papers\n:footcite:t:`Ramadass2004`, :footcite:t:`Ploehn2004`,\n:footcite:t:`Single2018`, :footcite:t:`Safari2008`, and\n:footcite:t:`Yang2017`\n\n.. note::\n    This parameter set does not claim to be representative of the true parameter\n    values. Instead these are parameter values that were used to fit SEI models to\n    observed experimental data in the referenced papers.\n"
+}
