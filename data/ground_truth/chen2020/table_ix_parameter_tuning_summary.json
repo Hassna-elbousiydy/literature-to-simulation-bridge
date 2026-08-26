@@ -1,0 +1,20 @@
+{
+  "document_id": "chen2020_parameterization",
+  "doi": "10.1149/1945-7111/ab9050",
+  "table_id": "Table IX",
+  "pdf_page": 20,
+  "record_count": 8,
+  "components": [
+    "negative_electrode",
+    "positive_electrode",
+    "separator"
+  ],
+  "mapping_status_counts": {
+    "exact_current_pybamm_name": 4,
+    "candidate_current_pybamm_name": 3,
+    "requires_initial_condition_conversion": 1
+  },
+  "maximum_variation_difference_percent": 0.4536,
+  "source_verification": "visually_verified",
+  "csv_path": "data\\ground_truth\\chen2020\\table_ix_parameter_tuning.csv"
+}

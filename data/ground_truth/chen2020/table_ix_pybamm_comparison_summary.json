@@ -1,0 +1,14 @@
+{
+  "ground_truth_file": "data\\ground_truth\\chen2020\\table_ix_parameter_tuning.csv",
+  "registry_file": "data\\reference\\pybamm\\chen2020_parameter_registry.csv",
+  "comparison_file": "data\\ground_truth\\chen2020\\table_ix_pybamm_comparison.csv",
+  "record_count": 8,
+  "status_counts": {
+    "exact_match": 7,
+    "not_directly_mapped": 1
+  },
+  "exact_match_count": 7,
+  "not_directly_mapped_count": 1,
+  "blocking_record_count": 0,
+  "validation_passed": true
+}
