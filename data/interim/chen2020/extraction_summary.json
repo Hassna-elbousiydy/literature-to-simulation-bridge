@@ -1,0 +1,15 @@
+{
+  "document_id": "chen2020",
+  "doi": "10.1149/1945-7111/ab9050",
+  "source_filename": "chen2020_parameterization.pdf",
+  "source_sha256": "368c1fc5c8b1572cdb798f1b4dc94e8311f1991bc0c7bb344c7383aebed5987e",
+  "pymupdf_version": "1.28.2",
+  "title": "Development of Experimental Techniques for Parameterization of Multi-scale Lithium-ion Battery Models",
+  "author": "Chang-Hui Chen",
+  "page_count": 23,
+  "pages_with_text": 23,
+  "total_page_characters": 155617,
+  "total_page_words": 17464,
+  "text_block_count": 532,
+  "important_notice": "Full extracted text and blocks are local-only inputs and are excluded from Git."
+}

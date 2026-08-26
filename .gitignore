@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 # Local scientific papers - do not publish
 data/raw/papers/*.pdf
+data/interim/chen2020/*.jsonl
+data/interim/chen2020/*.txt
