@@ -183,3 +183,6 @@ cython_debug/
 data/raw/papers/*.pdf
 data/interim/chen2020/*.jsonl
 data/interim/chen2020/*.txt
+data/interim/chen2020/tables/*.csv
+data/interim/chen2020/table_index.json
+data/interim/chen2020/review_pages/*.png

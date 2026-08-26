@@ -1,0 +1,9 @@
+{
+  "document_id": "chen2020",
+  "doi": "10.1149/1945-7111/ab9050",
+  "pages_with_caption_or_table": 13,
+  "caption_candidates": 30,
+  "detected_tables": 1,
+  "manual_review_status": "not_started",
+  "important_notice": "Automatic table detection may contain false positives or miss tables. Every candidate requires manual review."
+}
