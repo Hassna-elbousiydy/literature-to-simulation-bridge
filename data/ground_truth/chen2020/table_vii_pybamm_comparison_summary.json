@@ -1,0 +1,18 @@
+{
+  "ground_truth_file": "data\\ground_truth\\chen2020\\table_vii_numeric_parameters.csv",
+  "registry_file": "data\\reference\\pybamm\\chen2020_parameter_registry.csv",
+  "comparison_file": "data\\ground_truth\\chen2020\\table_vii_pybamm_comparison.csv",
+  "record_count": 33,
+  "status_counts": {
+    "exact_match": 18,
+    "not_directly_comparable": 8,
+    "expected_tuned_difference": 7
+  },
+  "expected_status_counts": {
+    "exact_match": 18,
+    "expected_tuned_difference": 7,
+    "not_directly_comparable": 8
+  },
+  "blocking_record_count": 0,
+  "validation_passed": true
+}

@@ -1,0 +1,37 @@
+{
+  "document_id": "chen2020_parameterization",
+  "doi": "10.1149/1945-7111/ab9050",
+  "table_id": "Table VII",
+  "pdf_page": 19,
+  "record_count": 33,
+  "category_counts": {
+    "design_specifications": 17,
+    "electrode": 10,
+    "reaction": 4,
+    "electrolyte": 2
+  },
+  "component_counts": {
+    "positive_electrode": 12,
+    "negative_electrode": 12,
+    "separator": 3,
+    "cell": 2,
+    "electrolyte": 2,
+    "positive_current_collector": 1,
+    "negative_current_collector": 1
+  },
+  "mapping_status_counts": {
+    "exact_name_candidate": 16,
+    "tuned_in_table_ix": 8,
+    "embedded_in_function": 4,
+    "requires_conversion": 3,
+    "candidate_geometry_mapping": 2
+  },
+  "expected_relation_counts": {
+    "expected_exact_match": 16,
+    "not_directly_comparable": 8,
+    "expected_difference_table_ix_tuning": 7,
+    "geometry_name_translation": 2
+  },
+  "source_verification": "visually_verified",
+  "csv_path": "data\\ground_truth\\chen2020\\table_vii_numeric_parameters.csv"
+}
