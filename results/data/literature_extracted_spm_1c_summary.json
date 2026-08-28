@@ -1,0 +1,15 @@
+{
+  "pybamm_version": "26.8.0.0",
+  "model": "Single Particle Model",
+  "parameter_base": "Chen2020",
+  "parameter_source": "Automatically extracted from Chen2020 Table IX",
+  "override_count": 7,
+  "protocol": "Discharge at 1C until 2.5 V",
+  "number_of_points": 122,
+  "duration_hours": 1.001819151974341,
+  "initial_voltage_v": 4.080160789145071,
+  "final_voltage_v": 2.499999999999755,
+  "final_discharge_capacity_ah": 5.009095759871703,
+  "termination": "event: Voltage < 2.5 [V] [experiment]",
+  "overrides_file": "data\\processed\\chen2020\\pybamm_overrides_from_table_ix.json"
+}

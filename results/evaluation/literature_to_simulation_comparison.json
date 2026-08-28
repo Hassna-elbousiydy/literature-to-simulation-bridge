@@ -1,0 +1,19 @@
+{
+  "reference_file": "results\\data\\chen2020_spm_1c_discharge.csv",
+  "literature_simulation_file": "results\\data\\literature_extracted_spm_1c_discharge.csv",
+  "reference_point_count": 122,
+  "literature_simulation_point_count": 122,
+  "same_point_count": true,
+  "same_time_grid": true,
+  "voltage_rmse_v": 2.1274987886084438e-16,
+  "maximum_absolute_voltage_error_v": 4.440892098500626e-16,
+  "final_capacity_difference_ah": 0.0,
+  "duration_difference_seconds": 0.0,
+  "thresholds": {
+    "maximum_voltage_rmse_v": 1e-08,
+    "maximum_absolute_voltage_error_v": 1e-07,
+    "maximum_final_capacity_difference_ah": 1e-08,
+    "maximum_duration_difference_seconds": 1e-06
+  },
+  "validation_passed": true
+}

@@ -1,0 +1,12 @@
+{
+  "document_id": "chen2020_parameterization",
+  "doi": "10.1149/1945-7111/ab9050",
+  "source_table": "Table IX",
+  "override_count": 7,
+  "excluded_record_count": 1,
+  "current_pybamm_match_count": 7,
+  "pybamm_version": "26.8.0.0",
+  "validation_passed": true,
+  "overrides_file": "data\\processed\\chen2020\\pybamm_overrides_from_table_ix.json",
+  "provenance_file": "data\\processed\\chen2020\\pybamm_overrides_from_table_ix_provenance.json"
+}
