@@ -13,7 +13,7 @@ Battery modelling papers often report important parameters inside complex PDF ta
 This project implements a first automated and traceable bridge between scientific literature and battery simulation:
 
 1. Parse a scientific PDF with page-level provenance.
-2. detect candidate parameter tables;
+2. Detect candidate parameter tables;
 3. extract table cells using document coordinates and detected headers;
 4. normalize scientific notation and numerical values;
 5. map literature terminology to PyBaMM parameter names;
@@ -92,8 +92,8 @@ The extracted and mapped parameters were used in a PyBaMM Single Particle Model 
 | Reference points | 122 |
 | Literature-derived simulation points | 122 |
 | Same time grid | Yes |
-| Voltage RMSE | `2.13  10 V` |
-| Maximum absolute voltage error | `4.44  10 V` |
+| Voltage RMSE | `2.1275e-16 V` |
+| Maximum absolute voltage error | `4.4409e-16 V` |
 | Final capacity difference | `0 Ah` |
 | Duration difference | `0 s` |
 | Validation | Passed |
