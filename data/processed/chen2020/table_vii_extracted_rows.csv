@@ -1,0 +1,22 @@
+extraction_id,document_id,doi,table_id,pdf_page,row_number,row_coordinate_x,negative_electrode_raw,separator_raw,positive_electrode_raw,unit_raw,parameter_raw,reported_cell_count
+chen2020_table_vii_auto_001,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,1,163.3653,Graphite + silicon,Ceramic coated polyolefina),LiNi1-x-yMnxCoyO2,,Active material,3
+chen2020_table_vii_auto_002,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,2,173.3438,12·10-6,—,16·10-6,m,Current collector thickness,3
+chen2020_table_vii_auto_003,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,3,183.4268,85.2·10-6,12·10-6,75.6·10-6,m,Electrode thickness (Lk),3
+chen2020_table_vii_auto_004,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,4,193.356,,,1.58,m,Electrode length,1
+chen2020_table_vii_auto_005,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,5,203.3343,,,6.5·10-2,m,Electrode width,1
+chen2020_table_vii_auto_006,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,6,213.4051,5.86·10-6,—,5.22·10-6,m,Mean particle radius (Rk),3
+chen2020_table_vii_auto_007,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,7,223.2079,25,47,33.5,%,Electrolyte volume fraction (ek),3
+chen2020_table_vii_auto_008,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,8,233.6996,75,—,66.5,%,"Active material volume fraction (e k act, )",3
+chen2020_table_vii_auto_009,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,9,244.1321,2.91,2.57,2.43,—,Bruggeman exponent (b),3
+chen2020_table_vii_auto_010,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,10,254.4548,1.74·10-15,—,1.48·10-15,m2 s-1,"Solid phase lithium diffusivity (Ds k, )",3
+chen2020_table_vii_auto_011,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,11,264.9571,215,—,0.18,S m-1,"Solid phase electronic conductivity (ss k, )",3
+chen2020_table_vii_auto_012,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,12,276.3571,29583,—,51765,mol m-3,"Maximum concentration (cs k, max)",3
+chen2020_table_vii_auto_013,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,13,287.2392,0.0279,—,0.9084,—,Stoichiometry at 0% SOC,3
+chen2020_table_vii_auto_014,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,14,297.2167,0.9014,—,0.2661,—,Stoichiometry at 100% SOC,3
+chen2020_table_vii_auto_015,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,15,307.5636,,See 23,,m2 s-1,"Electrolyte ionic diffusivity (De k, )",1
+chen2020_table_vii_auto_016,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,16,318.0496,,See 24,,S m-1,"Electrolyte ionic conductivity (se k, )",1
+chen2020_table_vii_auto_017,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,17,328.6947,,0.2594,,—,Transference number ( + t ),1
+chen2020_table_vii_auto_018,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,18,339.2193,,1000,,mol m-3,Initial electrolyte concentration (ce0),1
+chen2020_table_vii_auto_019,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,19,349.2411,see Fig. 12 or 9,—,see Fig. 12 or 8,V,Open Circuit Voltages (Uk),3
+chen2020_table_vii_auto_020,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,20,359.1831,35.0·103,—,17.8·103,J mol-1,Activation energy,3
+chen2020_table_vii_auto_021,chen2020_parameterization,10.1149/1945-7111/ab9050,Table VII,19,21,369.2163,6.48·10-7,—,3.42·10-6,A m-2 (m3 mol-1)1.5,Reaction rate (mk),3

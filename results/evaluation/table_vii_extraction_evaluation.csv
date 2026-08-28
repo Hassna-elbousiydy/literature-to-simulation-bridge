@@ -1,0 +1,34 @@
+record_id,parameter_raw,component,row_number,extracted_column,extracted_raw_value,expected_normalized_value,predicted_normalized_value,absolute_error,relative_error_percent,evaluation_status
+chen2020_table_vii_001,Current collector thickness,positive_current_collector,2,positive_electrode_raw,16·10-6,1.6e-05,1.6e-05,0.0,0.0,exact_match
+chen2020_table_vii_002,Current collector thickness,negative_current_collector,2,negative_electrode_raw,12·10-6,1.2e-05,1.2e-05,0.0,0.0,exact_match
+chen2020_table_vii_003,Electrode thickness,positive_electrode,3,positive_electrode_raw,75.6·10-6,7.56e-05,7.56e-05,0.0,0.0,exact_match
+chen2020_table_vii_004,Electrode thickness,separator,3,separator_raw,12·10-6,1.2e-05,1.2e-05,0.0,0.0,exact_match
+chen2020_table_vii_005,Electrode thickness,negative_electrode,3,negative_electrode_raw,85.2·10-6,8.52e-05,8.52e-05,0.0,0.0,exact_match
+chen2020_table_vii_006,Electrode length,cell,4,positive_electrode_raw,1.58,1.58,1.58,0.0,0.0,exact_match
+chen2020_table_vii_007,Electrode width,cell,5,positive_electrode_raw,6.5·10-2,0.065,0.065,0.0,0.0,exact_match
+chen2020_table_vii_008,Mean particle radius,positive_electrode,6,positive_electrode_raw,5.22·10-6,5.22e-06,5.219999999999999e-06,8.470329472543003e-22,1.6226684813300773e-14,exact_match
+chen2020_table_vii_009,Mean particle radius,negative_electrode,6,negative_electrode_raw,5.86·10-6,5.86e-06,5.86e-06,0.0,0.0,exact_match
+chen2020_table_vii_010,Electrolyte volume fraction,positive_electrode,7,positive_electrode_raw,33.5,0.335,0.335,0.0,0.0,exact_match
+chen2020_table_vii_011,Electrolyte volume fraction,separator,7,separator_raw,47,0.47,0.47,0.0,0.0,exact_match
+chen2020_table_vii_012,Electrolyte volume fraction,negative_electrode,7,negative_electrode_raw,25,0.25,0.25,0.0,0.0,exact_match
+chen2020_table_vii_013,Active material volume fraction,positive_electrode,8,positive_electrode_raw,66.5,0.665,0.665,0.0,0.0,exact_match
+chen2020_table_vii_014,Active material volume fraction,negative_electrode,8,negative_electrode_raw,75,0.75,0.75,0.0,0.0,exact_match
+chen2020_table_vii_015,Bruggeman exponent,positive_electrode,9,positive_electrode_raw,2.43,2.43,2.43,0.0,0.0,exact_match
+chen2020_table_vii_016,Bruggeman exponent,separator,9,separator_raw,2.57,2.57,2.57,0.0,0.0,exact_match
+chen2020_table_vii_017,Bruggeman exponent,negative_electrode,9,negative_electrode_raw,2.91,2.91,2.91,0.0,0.0,exact_match
+chen2020_table_vii_018,Solid phase lithium diffusivity,positive_electrode,10,positive_electrode_raw,1.48·10-15,1.48e-15,1.4800000000000002e-15,1.9721522630525295e-31,1.3325353128733306e-14,exact_match
+chen2020_table_vii_019,Solid phase lithium diffusivity,negative_electrode,10,negative_electrode_raw,1.74·10-15,1.74e-15,1.74e-15,0.0,0.0,exact_match
+chen2020_table_vii_020,Solid phase electronic conductivity,positive_electrode,11,positive_electrode_raw,0.18,0.18,0.18,0.0,0.0,exact_match
+chen2020_table_vii_021,Solid phase electronic conductivity,negative_electrode,11,negative_electrode_raw,215,215.0,215.0,0.0,0.0,exact_match
+chen2020_table_vii_022,Maximum concentration,positive_electrode,12,positive_electrode_raw,51765,51765.0,51765.0,0.0,0.0,exact_match
+chen2020_table_vii_023,Maximum concentration,negative_electrode,12,negative_electrode_raw,29583,29583.0,29583.0,0.0,0.0,exact_match
+chen2020_table_vii_024,Stoichiometry at 0% SOC,positive_electrode,13,positive_electrode_raw,0.9084,0.9084,0.9084,0.0,0.0,exact_match
+chen2020_table_vii_025,Stoichiometry at 0% SOC,negative_electrode,13,negative_electrode_raw,0.0279,0.0279,0.0279,0.0,0.0,exact_match
+chen2020_table_vii_026,Stoichiometry at 100% SOC,positive_electrode,14,positive_electrode_raw,0.2661,0.2661,0.2661,0.0,0.0,exact_match
+chen2020_table_vii_027,Stoichiometry at 100% SOC,negative_electrode,14,negative_electrode_raw,0.9014,0.9014,0.9014,0.0,0.0,exact_match
+chen2020_table_vii_028,Transference number,electrolyte,17,separator_raw,0.2594,0.2594,0.2594,0.0,0.0,exact_match
+chen2020_table_vii_029,Initial electrolyte concentration,electrolyte,18,separator_raw,1000,1000.0,1000.0,0.0,0.0,exact_match
+chen2020_table_vii_030,Activation energy,positive_electrode,20,positive_electrode_raw,17.8·103,17800.0,17800.0,0.0,0.0,exact_match
+chen2020_table_vii_031,Activation energy,negative_electrode,20,negative_electrode_raw,35.0·103,35000.0,35000.0,0.0,0.0,exact_match
+chen2020_table_vii_032,Reaction rate,positive_electrode,21,positive_electrode_raw,3.42·10-6,3.42e-06,3.42e-06,0.0,0.0,exact_match
+chen2020_table_vii_033,Reaction rate,negative_electrode,21,negative_electrode_raw,6.48·10-7,6.48e-07,6.48e-07,0.0,0.0,exact_match
