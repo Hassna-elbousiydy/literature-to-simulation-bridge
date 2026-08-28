@@ -1,0 +1,9 @@
+record_id,parameter_raw,component,extracted_parameter_raw,experiment_raw,expected_experiment,predicted_experiment,experiment_match,simulation_raw,expected_simulation,predicted_simulation,simulation_match,variation_raw,expected_variation_percent,predicted_variation_percent,variation_match,evaluation_status
+chen2020_table_ix_001,Positive electrode diffusion coefficient,positive_electrode,Positive electrode diffusion coefficient,1.48·10-15,1.48e-15,1.4800000000000002e-15,True,4·10-15,4e-15,4e-15,True,170,170.0,170.0,True,exact_match
+chen2020_table_ix_002,Negative electrode diffusion coefficient,negative_electrode,Negative electrode diffusion coefficient,1.74·10-15,1.74e-15,1.74e-15,True,3.3·10-14,3.3e-14,3.3e-14,True,1797,1797.0,1797.0,True,exact_match
+chen2020_table_ix_003,Positive electrode maximum concentration,positive_electrode,Positive electrode maximum concentration,51765,51765.0,51765.0,True,63104,63104.0,63104.0,True,22,22.0,22.0,True,exact_match
+chen2020_table_ix_004,Negative electrode maximum concentration,negative_electrode,Negative electrode maximum concentration,29583,29583.0,29583.0,True,33133,33133.0,33133.0,True,12,12.0,12.0,True,exact_match
+chen2020_table_ix_005,Positive electrode 100% SOC stoichiometry,positive_electrode,Positive electrode 100% SOC stoichiometry,0.2661,0.2661,0.2661,True,0.27,0.27,0.27,True,1.47,1.47,1.47,True,exact_match
+chen2020_table_ix_006,Bruggeman constant,positive_electrode,Bruggeman constants (pos/sep/neg),2.43/2.57/2.91,2.43,2.43,True,1.5,1.5,1.5,True,38/42/48,38.0,38.0,True,exact_match
+chen2020_table_ix_007,Bruggeman constant,separator,Bruggeman constants (pos/sep/neg),2.43/2.57/2.91,2.57,2.57,True,1.5,1.5,1.5,True,38/42/48,42.0,42.0,True,exact_match
+chen2020_table_ix_008,Bruggeman constant,negative_electrode,Bruggeman constants (pos/sep/neg),2.43/2.57/2.91,2.91,2.91,True,1.5,1.5,1.5,True,38/42/48,48.0,48.0,True,exact_match

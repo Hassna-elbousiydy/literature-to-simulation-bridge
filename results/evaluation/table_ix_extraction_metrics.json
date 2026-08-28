@@ -1,0 +1,21 @@
+{
+  "document_id": "chen2020_parameterization",
+  "doi": "10.1149/1945-7111/ab9050",
+  "table_id": "Table IX",
+  "ground_truth_record_count": 8,
+  "extracted_table_row_count": 6,
+  "expected_numeric_value_count": 24,
+  "predicted_numeric_value_count": 24,
+  "true_positive_count": 24,
+  "false_positive_count": 0,
+  "false_negative_count": 0,
+  "exact_record_count": 8,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "status_counts": {
+    "exact_match": 8
+  },
+  "validation_passed": true,
+  "detail_file": "results\\evaluation\\table_ix_extraction_evaluation.csv"
+}

@@ -1,0 +1,33 @@
+{
+  "document_id": "chen2020_parameterization",
+  "doi": "10.1149/1945-7111/ab9050",
+  "table_id": "Table IX",
+  "pdf_page": 20,
+  "page_rotation_degrees": 0,
+  "caption_y": 640.7913,
+  "data_y_min": 689.8994,
+  "data_y_max": 763.326,
+  "header_centres": {
+    "Units": 256.8698,
+    "Experiments": 344.9567,
+    "Simulations": 437.6227,
+    "Variation (%)": 529.5547
+  },
+  "inferred_parameter_centre": 164.9378,
+  "column_boundaries": [
+    210.9038,
+    300.9132,
+    391.2897,
+    483.5887
+  ],
+  "extracted_row_count": 6,
+  "non_empty_cell_counts": {
+    "parameter_raw": 6,
+    "unit_raw": 6,
+    "experiment_raw": 6,
+    "simulation_raw": 6,
+    "variation_raw": 6
+  },
+  "extraction_method": "header_anchored_coordinate_extraction",
+  "csv_path": "data\\processed\\chen2020\\table_ix_extracted_rows.csv"
+}

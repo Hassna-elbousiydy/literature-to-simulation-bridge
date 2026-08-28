@@ -1,0 +1,7 @@
+extraction_id,document_id,doi,table_id,pdf_page,row_number,row_coordinate_y,parameter_raw,unit_raw,experiment_raw,simulation_raw,variation_raw
+chen2020_table_ix_auto_001,chen2020_parameterization,10.1149/1945-7111/ab9050,Table IX,20,1,699.8085,Positive electrode diffusion coefficient,m2 s-1,1.48·10-15,4·10-15,170
+chen2020_table_ix_auto_002,chen2020_parameterization,10.1149/1945-7111/ab9050,Table IX,20,2,709.843,Negative electrode diffusion coefficient,m2 s-1,1.74·10-15,3.3·10-14,1797
+chen2020_table_ix_auto_003,chen2020_parameterization,10.1149/1945-7111/ab9050,Table IX,20,3,719.8635,Positive electrode maximum concentration,mol m-3,51765,63104,22
+chen2020_table_ix_auto_004,chen2020_parameterization,10.1149/1945-7111/ab9050,Table IX,20,4,729.8414,Negative electrode maximum concentration,mol m-3,29583,33133,12
+chen2020_table_ix_auto_005,chen2020_parameterization,10.1149/1945-7111/ab9050,Table IX,20,5,739.8754,Positive electrode 100% SOC stoichiometry,—,0.2661,0.27,1.47
+chen2020_table_ix_auto_006,chen2020_parameterization,10.1149/1945-7111/ab9050,Table IX,20,6,749.8537,Bruggeman constants (pos/sep/neg),—,2.43/2.57/2.91,1.5,38/42/48
